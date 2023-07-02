@@ -1,0 +1,15 @@
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\LeedCodeProblems.csproj.AssemblyReference.cache
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\LeedCodeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\LeedCodeProblems.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\LeedCodeProblems.AssemblyInfo.cs
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\LeedCodeProblems.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\bin\Debug\net6.0\LeedCodeProblems.exe
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\bin\Debug\net6.0\LeedCodeProblems.deps.json
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\bin\Debug\net6.0\LeedCodeProblems.runtimeconfig.json
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\bin\Debug\net6.0\LeedCodeProblems.dll
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\bin\Debug\net6.0\LeedCodeProblems.pdb
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\LeedCodeProblems.dll
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\refint\LeedCodeProblems.dll
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\LeedCodeProblems.pdb
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\LeedCodeProblems.genruntimeconfig.cache
+C:\Users\Евгений\Documents\Repos\LeedCodeProblems\LeedCodeProblems\obj\Debug\net6.0\ref\LeedCodeProblems.dll
