@@ -13,8 +13,8 @@ namespace LeedCodeProblems.Problems
 
             for (int i = 0; i < nums.Length - 1; i++)
             {
-                int twoNumber = target - nums[i];
-                int indexTwoNumber = -1;
+                var twoNumber = target - nums[i];
+                var indexTwoNumber = -1;
                 indexTwoNumber = Array.LastIndexOf(nums, twoNumber);
                 if (indexTwoNumber > i)
                 {
