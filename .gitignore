@@ -1,0 +1,4 @@
+LeedCodeProblems/obj
+LeedCodeProblems/bin
+.vs/
+!*.cs
