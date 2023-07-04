@@ -1,4 +1,4 @@
-LeedCodeProblems/obj
-LeedCodeProblems/bin
+LeedCodeProblems/obj/
+LeedCodeProblems/bin/
 .vs/
 !*.cs
