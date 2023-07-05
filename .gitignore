@@ -1,4 +1,6 @@
-LeedCodeProblems/obj/
-LeedCodeProblems/bin/
-.vs/
+**/obj
+**/bin
+**/.vs
 !*.cs
+!*.sln
+!*.csproj
