@@ -13,4 +13,6 @@ LongestCommonPrefix.TestLongestCommonPrefix();
 Console.WriteLine("Longest Common Prefix - Ok");
 ValidParentheses.TestValidParentheses();
 Console.WriteLine("Valid Parentheses - Ok");
+MergeTwoSortedLists.TestMergeTwoLists();
+Console.WriteLine("Merge Two Sorted Lists - Ok");
 Console.ReadLine();
