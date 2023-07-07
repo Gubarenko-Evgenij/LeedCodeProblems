@@ -15,4 +15,6 @@ ValidParentheses.TestValidParentheses();
 Console.WriteLine("Valid Parentheses - Ok");
 MergeTwoSortedLists.TestMergeTwoLists();
 Console.WriteLine("Merge Two Sorted Lists - Ok");
+MargeTwoSortedListsAlt.TestMergeTwoLists();
+Console.WriteLine("Merge Two Sorted Lists Alt - Ok");
 Console.ReadLine();
